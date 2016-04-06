@@ -18,7 +18,7 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: MyOpenSUSEBlog
+title: Raul Libório
 
 # Short description of your site
 description: My Blog about openSUSE and other cool FOSS stuff.
@@ -76,7 +76,7 @@ url-pretty: "username.github.io"  # eg. "deanattali.com/beautiful-jekyll"
 # --- Don't need to touch anything below here (but you can if you want) --- #
 
 # Output options (more information on Jekyll's site)
-timezone: "Europe/Berlin"
+timezone: "America/Bahia"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
