@@ -1,8 +1,11 @@
 ---
 layout: page
-title: About me
+title: A pessoa
 subtitle: Algumas pessoas dizem que preciso ser estudado
 ---
+
+[Se procura pelo currículo, por favor, verifique o linkedin] (https://br.linkedin.com/in/raulliborio)
+
 
 Olá! Me chamo Raul Libório. Sou mais um daqueles amigos que encontramos pela Internet, disposto a te ajudar.
 Tenho grande simpatia com o <a title="openSUSE" href="http://www.openSUSE.org">openSUSE project</a>. É minha distro favorita, inclusive, a quem creia que eu seja o único usuário de openSUSE aqui em Salvador/Bahia, minha querida cidade natal.
