@@ -4,7 +4,7 @@ title: A pessoa
 subtitle: Algumas pessoas dizem que preciso ser estudado
 ---
 
-[Se procura pelo currículo, por favor, verifique o linkedin] (https://br.linkedin.com/in/raulliborio)
+Se procura pelo currículo, por favor, [verifique o linkedin] (https://br.linkedin.com/in/raulliborio)
 
 
 Olá! Me chamo Raul Libório. Sou mais um daqueles amigos que encontramos pela Internet, disposto a te ajudar.
